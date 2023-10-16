@@ -1,2 +1,1 @@
-# Wiki
-eu n fiz da barbearia, mas usei os mesmos scripts
+https://wiki-de-svfoe.w3spaces-preview.com/index.html
